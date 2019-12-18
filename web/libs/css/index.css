@@ -1,0 +1,15 @@
+#login-btn{
+    /*margin: 0 auto;*/
+    margin-top: 50px;
+}
+#login-title{
+    /*vertical-align: middle;*/
+    margin-top: 300px;
+}
+/*#nav-btn{*/
+    /*margin-right: 300px;*/
+/*}*/
+#login-btn a > button{
+    width: 400px;
+    margin-top: 10px;
+}
